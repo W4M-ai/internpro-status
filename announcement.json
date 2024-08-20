@@ -1,0 +1,9 @@
+{
+  "active": false,
+  "type": "maintenance",
+  "message": "Custom message",
+  "link": {
+    "text": "Learn more",
+    "url": "https://status.epicspro.com"
+  }
+}
